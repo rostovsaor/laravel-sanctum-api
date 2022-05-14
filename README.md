@@ -21,6 +21,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## About This Project
+
+Simple Laravel Project with basic Laravel API CRUD implementation, including route protecting using Laravel Sanctum.
+
+Based on Brad Traversy's [laravel-sanctum-api](https://github.com/bradtraversy/laravel-sanctum-api) repository.
+As seen on [Laravel 8 REST API With Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU)
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
